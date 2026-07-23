@@ -1,5 +1,5 @@
 # Fundamentos de Modelos Multimodais
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rogersamacedo/Fundamentos_de_Modelos_multimodais/blob/main/VC_M4A5_Fundamentos_de_Modelos_Multimodais.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rogersamacedo/Fundamentos-de-Modelos-Multimodais/blob/main/VC_M4A5_Fundamentos_de_Modelos_Multimodais.ipynb)
 
 Projeto desenvolvido para explorar os conceitos fundamentais de modelos multimodais, integrando imagens e linguagem natural para análise e interpretação de conteúdo visual.
 
