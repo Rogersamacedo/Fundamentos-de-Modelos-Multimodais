@@ -1,4 +1,5 @@
 # Fundamentos de Modelos Multimodais
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_DO_COLAB)
 
 Projeto desenvolvido para explorar os conceitos fundamentais de modelos multimodais, integrando imagens e linguagem natural para análise e interpretação de conteúdo visual.
 
